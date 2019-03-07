@@ -1,0 +1,9 @@
+############
+cd
+ls
+ls -la
+pwd
+vim
+cat 
+history
+clear 
