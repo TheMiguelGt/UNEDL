@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecorridoMatriz", "RecorridoMatriz\RecorridoMatriz.csproj", "{E1D2F588-396A-443B-A42F-088B75F3550D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1D2F588-396A-443B-A42F-088B75F3550D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1D2F588-396A-443B-A42F-088B75F3550D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1D2F588-396A-443B-A42F-088B75F3550D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1D2F588-396A-443B-A42F-088B75F3550D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {220807D2-C52C-4AD5-8EB1-68ED2599C310}
+	EndGlobalSection
+EndGlobal
