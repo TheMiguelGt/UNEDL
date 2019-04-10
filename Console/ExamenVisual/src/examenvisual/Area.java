@@ -10,6 +10,6 @@ public abstract class Area extends Datos{
         System.out.println("Ingresa la base");
         b=popo.nextDouble();
         A=h*b;
-        System.out.println("El area es igual a: "+A);
+        System.out.println("El area es igual a: " +A);
     }
 }
